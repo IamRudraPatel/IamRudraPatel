@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamrudrapatel&label=Profile%20views&color=0e75b6&style=flat" alt="iamrudrapatel" /> </p>
 
-- 🌱 I’m currently learning **Data Structure And Algorithm, Data Science**
+- 🌱 I’m currently learning **Python, Data Structure And Algorithm, Data Science**
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/iamrudrapatel/](https://www.linkedin.com/in/iamrudrapatel/)
 
